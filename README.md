@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rajit Puzhakkarezhath</h1>
-<h3 align="center">I am a highly motivated and skilled professional with a Master of Science degree in Computer Science from University of Illinois at Chicago, specializing in data science, machine learning and artificial intelligence.</h3>
+<h3 align="center">I am a highly motivated and skilled Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajitsp&label=Profile%20views&color=0e75b6&style=flat" alt="rajitsp" /> </p>
 
-- 🤝 I’m looking for a new role as a **data scientist, Artificial Intelligence Engineer, Machine Learning Engineer, NLP Engineer, Computer Vision Engineer, Data Engineer, Data Analyst, Software Engineer**
+- 🔭 I have a Masters in Computer Science from [University of Illinois at Chicago](https://rajitsp.github.io/about.html)
+
+- 👯 I worked in Data Science Research and Development at [CCC Intelligent Solutions](https://rajitsp.github.io/CCC.html)
+
+- 🤝 I’m looking for a new role as a **Data scientist, Artificial Intelligence Engineer, Machine Learning Engineer, NLP Engineer, Computer Vision Engineer, Data Engineer, Data Analyst or Software Engineer**
 
 - 👨‍💻 Check out my project portfolio and experiences on [https://rajitsp.github.io/](https://rajitsp.github.io/)
 
