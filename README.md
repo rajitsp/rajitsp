@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **rajitsp@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/rajitsp/rajitsp.github.io/blob/main/Rajit_Puzhakkarezhath_Resume.pdf](https://github.com/rajitsp/rajitsp.github.io/blob/main/Rajit_Puzhakkarezhath_Resume.pdf)
+- 📄 Take a look at my resume here [https://github.com/rajitsp/rajitsp.github.io/blob/main/Rajit_Puzhakkarezhath_Resume.pdf](https://github.com/rajitsp/rajitsp.github.io/blob/main/Rajit_Puzhakkarezhath_Resume.pdf)
 
 - ⚡ Fun fact **I binge watch shows and play badminton professionally**
 
