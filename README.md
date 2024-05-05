@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajitsp" alt="rajitsp" /></a> </p>
 
+- 💻 I'm currently working as a Machine Learning Engineer at Squark.
+
 - 🔭 I have a Masters in Computer Science from [University of Illinois at Chicago](https://rajitsp.github.io/about.html)
 
 - 👯 I worked in Data Science Research and Development at [CCC Intelligent Solutions](https://rajitsp.github.io/CCC.html)
